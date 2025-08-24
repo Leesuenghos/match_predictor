@@ -1,0 +1,8 @@
+.git
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env          # ← 비밀키가 이미지에 들어가지 않도록 꼭 제외!
+.vscode/
+.DS_Store
+*.log
